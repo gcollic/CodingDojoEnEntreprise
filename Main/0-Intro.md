@@ -26,7 +26,7 @@
 !SLIDE center
 ####En mission pour
 ![Logica](LogicaS.png)
-## Coding Dojo hebdomadaire
+## Coding Dojo tous les Jeudi midi
 ![5-6Men](5-6Men.png)
 
 

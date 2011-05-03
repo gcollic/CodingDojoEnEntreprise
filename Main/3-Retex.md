@@ -3,21 +3,18 @@
 
 !SLIDE
 # Managers heureux
-## Ouverture du premier Dojo aux autres projets
+## Généralisation
 
 !SLIDE
 # Développeurs heureux
-## Encore plus soudés
-.notes TODO
+## Plus soudés
+## Plus motivés
+## Plus compétents
 
 !SLIDE
 # Sujets
 ## Puzzles
-### Chiffres Romains, Pseudo-OCR, etc  
 ## Découvertes
-### Android, Windows Phone, F# 
-### Electronique Open source en .Net
-### etc
 ## Outillage pour le projet
 
 !SLIDE subsection
@@ -41,14 +38,14 @@
 # Feedback en fin de session
 
 !SLIDE bullets incremental
+# Régularité
+* Entraînement
+* Importance d'avoir un porteur au début
+
+!SLIDE bullets incremental
 # &#8220; Les autres vont ils suivrent ? &#8221;
 * Se lancer
 * Inclure tous le monde
 
 !SLIDE center
 ![Eole](Eole.jpg)
-
-!SLIDE bullets incremental
-# Régularité
-* Entraînement
-* Importance d'avoir un porteur au début

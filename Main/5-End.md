@@ -3,7 +3,7 @@
 
 !SLIDE bullets
 # Kata catalogue
-# TODO
+## [http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue](http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue)
 
 !SLIDE subsection
 # Questions ?

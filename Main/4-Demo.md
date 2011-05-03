@@ -3,6 +3,3 @@
 
 !SLIDE subsection
 # Debrief demo
-
-!SLIDE
-# TODO

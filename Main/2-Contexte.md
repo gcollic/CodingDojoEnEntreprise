@@ -1,8 +1,9 @@
 ﻿!SLIDE subsection
 # Contexte
 
-!SLIDE
+!SLIDE center
 # Entreprise Contoso
+![Logo Contoso](contoso_logo.jpg)
 ## Projet Numeda
 
 !SLIDE

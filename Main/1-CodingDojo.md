@@ -1,12 +1,11 @@
-﻿
-!SLIDE
-# Stéphanie
-## RH spécialisée en acquisition de compétences
-# :-|
-### &#8220; Pour atteindre l'expertise, il faut des heures de pratique délibérée, ce qui est différente de l’expérience acquise au jour le jour. Cela consiste à pratiquer en se concentrant sur l'apprentissage, et nécessite de ralentir. Il faut pouvoir expérimenter dans un contexte sûr, et prendre le temps d'analyser comment s'améliorer. Un oeuil extérieur aide. &#8221;
-
-!SLIDE subsection
+﻿!SLIDE subsection
 # Coding Dojo
+
+!SLIDE bullets incremental
+# Maitriser une compétence
+* Des heures de *pratique délibérée*
+* Différent de l'expérience acquise au jour le jour
+* Nécessite de ralentir
 
 !SLIDE bullets incremental
 # Lieu d'entraînement
@@ -28,20 +27,14 @@
 * partager
 * s'amuser
 
-!SLIDE
+!SLIDE bullets incremental
 # TDD
-## TODO INSERT schéma 3 étapes
-
-!SLIDE
-# Kata
-## TODO Plan séance
+* <span class="red">Red</span>
+* <span class="green">Green</span>
+* Refactor
 
 !SLIDE center
 ![Kata](Kata.png)
-
-!SLIDE
-# Randori
-## TODO Plan séance
 
 !SLIDE center
 ![Randori](Randori.png)
@@ -50,5 +43,13 @@
 # Logistique
 
 !SLIDE
-# TODO Exemple Eole : 12:14, Jeudi, sandwich, video proj
+# A l'avance
+## Préparation des sujets le nécéssitant
+## Réservation salle + vidéo projecteur
 
+!SLIDE
+# Sur place
+## Commande de sandwich
+## Choix d'un sujet
+## Sujet
+## Feedback
