@@ -9,10 +9,14 @@
 !SLIDE center
 ![AgileFrance](agilefrance.png)
 
-!SLIDE center 
+!SLIDE center
 ![RennesOnRails](rennes-on-rails.jpg)
-## Coding Dojo mensuel
+##[rennesonrails.com](http://www.rennesonrails.com)
+
+!SLIDE center
 ![5Men](5Men.png)
+##[lacantine-rennes.net/prog](http://www.lacantine-rennes.net/prog)
+
 
 !SLIDE
 # Guillaume Collic
