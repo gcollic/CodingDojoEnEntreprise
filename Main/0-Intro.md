@@ -17,7 +17,6 @@
 ![5Men](5Men.png)
 ##[lacantine-rennes.net/prog](http://www.lacantine-rennes.net/prog)
 
-
 !SLIDE
 # Guillaume Collic
 
@@ -33,5 +32,14 @@
 ## Coding Dojo tous les Jeudi midi
 ![5-6Men](5-6Men.png)
 
+!SLIDE subsection
+# Sondage
 
+!SLIDE
+# Kata ?
 
+!SLIDE
+# Dojo ?
+
+!SLIDE
+# Midi techniques ?
