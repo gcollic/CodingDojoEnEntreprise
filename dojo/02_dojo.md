@@ -7,9 +7,9 @@
 * Différent de l'expérience acquise au jour le jour
 * Nécessite de ralentir
 
-!SLIDE bullets incremental
+!SLIDE center
 # Lieu d'entraînement
-* On vient pour apprendre
+![real-dojo](real-dojo.jpg)
 
 !SLIDE bullets incremental
 # Sûr
