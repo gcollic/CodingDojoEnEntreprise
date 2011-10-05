@@ -1,4 +1,4 @@
-﻿!SLIDE subsection
+!SLIDE subsection
 # Coding Dojo
 
 !SLIDE bullets incremental

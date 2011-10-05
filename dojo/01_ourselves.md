@@ -1,6 +1,5 @@
-﻿!SLIDE splash
+!SLIDE splash
 # Coding Dojo en Entreprise
-## Pourquoi ? Comment ?
 ### Thierry Henrio - Guillaume Collic
 
 !SLIDE
@@ -12,9 +11,6 @@
 !SLIDE center
 ![RennesOnRails](rennes-on-rails.jpg)
 ##[rennesonrails.com](http://www.rennesonrails.com)
-
-!SLIDE center
-![5Men](5Men.png)
 ##[lacantine-rennes.net/prog](http://www.lacantine-rennes.net/prog)
 
 !SLIDE
@@ -32,14 +28,10 @@
 ## Coding Dojo tous les Jeudi midi
 ![5-6Men](5-6Men.png)
 
-!SLIDE subsection
+!SLIDE bullets incremental
 # Sondage
 
-!SLIDE
-# Kata ?
-
-!SLIDE
-# Dojo ?
-
-!SLIDE
-# Midi techniques ?
+* Kata ?
+* Dojo ?
+* Midi techniques ?
+* Brown Bag ?

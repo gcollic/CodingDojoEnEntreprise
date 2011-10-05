@@ -1,4 +1,4 @@
-﻿!SLIDE subsection
+!SLIDE subsection
 # Demo
 
 !SLIDE subsection

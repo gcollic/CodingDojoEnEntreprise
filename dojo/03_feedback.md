@@ -1,4 +1,4 @@
-﻿!SLIDE subsection
+!SLIDE subsection
 # Retour d'experience
 
 !SLIDE
