@@ -1,29 +1,15 @@
 !SLIDE subsection
-# Retour d'experience
+# Organisation
 
-!SLIDE
-# Managers heureux
-## Généralisation
-
-!SLIDE
-# Développeurs heureux
-## Plus soudés
-## Plus motivés
-## Plus compétents
-
-!SLIDE
-# Sujets
-## Puzzles
-## Découvertes
-## Outillage pour le projet
-
-!SLIDE subsection
-# Conseils
+!SLIDE bullets incremental
+# Avant
+* salle + vidéo projecteur
+* avoir au moins un sujet sous le coude
+* sandwitch?
 
 !SLIDE bullets incremental
 # Choix du sujet par vote
 * Accepter que son sujet ne soit pas retenu
-* En avoir au moins un sous le coude
 
 !SLIDE bullets incremental
 # A la vitesse du plus lent
@@ -31,16 +17,17 @@
 
 !SLIDE bullets incremental
 # Durée des cycles en Randori
-* 5 minutes trop court
-* 7 minutes bien
+* < 10 minutes
+* 7 minutes ?
 
-!SLIDE
+!SLIDE bullets incremental
 # Feedback en fin de session
+* Qu'est ce qu'on a appris aujourd'hui ?
+* Est-ce que c'était fun ?
 
 !SLIDE bullets incremental
 # Régularité
-* Entraînement
-* Importance d'avoir un porteur au début
+* Entraînement (1 fois par an ?)
 
 !SLIDE bullets incremental
 # &#8220; Les autres vont ils suivrent ? &#8221;

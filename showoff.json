@@ -3,6 +3,8 @@
   "description": "Pourquoi ? Comment",
   "sections": [
     {"section": "dojo"},
-    {"section": "tdd"}
+    {"section": "tdd"},
+    {"section": "organize"},
+    {"section": "demo"}
   ]
 }

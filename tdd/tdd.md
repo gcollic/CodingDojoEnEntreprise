@@ -9,3 +9,4 @@
 
 * simplicité
 * feedback
+* build quality in product

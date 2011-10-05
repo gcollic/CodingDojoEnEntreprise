@@ -30,7 +30,6 @@
 
 !SLIDE bullets incremental
 # Sondage
-
 * Kata ?
 * Dojo ?
 * Midi techniques ?
